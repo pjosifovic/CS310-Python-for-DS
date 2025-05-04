@@ -13,7 +13,7 @@ This repository contains all the materials, assignments, and resources CS310 cla
 
 ## Introduction
 
-Class follows [ISLP] (https://www.statlearning.com/) as the main course material.
+Class follows [ISLP](https://www.statlearning.com/) as the main course material.
 You will find lecture notes, assignments, datasets, and additional resources.
 Topics covered:
 
@@ -28,13 +28,13 @@ Topics covered:
   
 ## Datasets
 
-- [Walmart Sales] (https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data)
+- [Walmart Sales](https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data)
 
 ## Resources
 
-- [ISLP] (https://www.statlearning.com/)
-- [EDA] (https://www.geeksforgeeks.org/exploratory-data-analysis-in-python/)
-- [Plotly] (https://plotly.com/python/getting-started/)
+- [ISLP](https://www.statlearning.com/)
+- [EDA](https://www.geeksforgeeks.org/exploratory-data-analysis-in-python/)
+- [Plotly](https://plotly.com/python/getting-started/)
 
 
 ## Getting Started
